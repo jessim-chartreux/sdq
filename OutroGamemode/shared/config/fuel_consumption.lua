@@ -1,0 +1,24 @@
+Config.FuelConsumption = {
+	[0] = 0.8, -- Compacts
+	[1] = 0.8, -- Sedans
+	[2] = 0.8, -- SUVs
+	[3] = 0.8, -- Coupes
+	[4] = 0.8, -- Muscle
+	[5] = 0.8, -- Sports Classics
+	[6] = 0.8, -- Sports
+	[7] = 0.8, -- Super
+	[8] = 0.8, -- Motorcycles
+	[9] = 0.8, -- Off-road
+	[10] = 0.8, -- Industrial
+	[11] = 0.8, -- Utility
+	[12] = 0.8, -- Vans
+	[13] = 0.0, -- Cycles
+	[14] = 0.8, -- Boats
+	[15] = 6.0, -- Helicopters
+	[16] = 0.8, -- Planes
+	[17] = 0.8, -- Service
+	[18] = 0.8, -- Emergency
+	[19] = 0.8, -- Military
+	[20] = 0.8, -- Commercial
+	[21] = 0.8, -- Trains
+}
